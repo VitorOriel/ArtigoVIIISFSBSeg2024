@@ -11,6 +11,6 @@ In order to extract the dataset, you must:
     - `export API_KEY_SECRET=<api-key-secret>`;
 5. Run the extractor with `./extractor.sh`;
 
-See the youtube video below for this extraction phase:
+See the youtube video below for this extraction phase demonstration:
 
 https://www.youtube.com/watch?v=nv021DnKymc
