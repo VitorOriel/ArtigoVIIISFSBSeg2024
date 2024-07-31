@@ -12,4 +12,5 @@ In order to extract the dataset, you must:
 5. Run the extractor with `./extractor.sh`;
 
 See the youtube video below for this extraction phase:
+
 https://www.youtube.com/watch?v=nv021DnKymc
