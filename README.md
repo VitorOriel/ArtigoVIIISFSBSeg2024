@@ -6,7 +6,7 @@ This repository provides the abstract, the applications and a sample, related to
 Both Smelly Kube API and Visual Studio Code plugin can be found in the following repositories, which contains information about the applications technologies and dependencies, and instructions to run them.
 
 - [security-smells-api](https://github.com/VitorOriel/security-smells-api/tree/v0.1.0): The Smelly Kube API (server) repository
-- [smelly-kube-vscode-plugin](https://github.com/VitorOriel/smelly-kube-vscode-plugin/tree/v0.0.2): The Smelly Kube Visual Studio Code (client) repository
+- [smelly-kube-vscode-plugin](https://github.com/VitorOriel/smelly-kube-vscode-plugin/): The Smelly Kube Visual Studio Code (client) repository
 
 In [samples](./samples/) can be found a sample Kubernetes manifest to try out the Smelly Kube API. Also, a curl request and the expected JSON response.
 
